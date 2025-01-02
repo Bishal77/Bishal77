@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋&nbsp; I am Bishal Bhatt.</h1>
 <h4 align="center">A Wantapreneur and A Software Developer.</h3>
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/58264268?s=400&v=4" alt="Bishal Bhatt" /></p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Bishal Bhatt" /></p>
 
 ### You can find me doing 
 <div align="center">  
